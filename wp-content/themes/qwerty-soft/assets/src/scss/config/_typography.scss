@@ -1,0 +1,130 @@
+// h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+//   text-transform: uppercase;
+// }
+
+// // Font-sizes(Desktop)
+// // Headings
+// .d1 {
+//   font-family: $primary-font;
+//   font-size: 56px;
+//   line-height: 0.9;
+//   font-weight: 400;
+// }
+// .d2 {
+//   font-family: $primary-font;
+//   font-size: 46px;
+//   line-height: 1;
+//   font-weight: 400;
+// }
+// .d3 {
+//   font-family: $primary-font;
+//   font-size: 36px;
+//   line-height: 1.2;
+//   font-weight: 700;
+// }
+// h1, .h1 {
+//   font-family: $primary-font;
+//   font-size: 32px;
+//   line-height: 1;
+//   font-weight: 400;
+// }
+// h2, .h2 {
+//   font-family: $primary-font;
+//   font-size: 28px;
+//   line-height: 1;
+//   font-weight: 400;
+// }
+// h3, .h3 {
+//   font-family: $primary-font;
+//   font-size: 24px;
+//   line-height: 1;
+//   font-weight: 400;
+// }
+// h4, .h4 {
+//   font-family: $primary-font;
+//   font-size: 20px;
+//   line-height: 1;
+//   font-weight: 400;
+// }
+// h5, .h5 {
+//   font-family: $primary-font;
+//   font-size: 18px;
+//   line-height: 1.1;
+//   font-weight: 400;
+// }
+// h6, .h6 {
+//   font-family: $primary-font;
+//   font-size: 16px;
+//   line-height: 1.1;
+//   font-weight: 400;
+// }
+
+// // Paragraphs
+// .body-l {
+//   font-family: $secondary-font-500;
+//   font-size: 18px;
+//   line-height: 1.6;
+// }
+// .body-l-bold {
+//   font-family: $secondary-font-700;
+//   font-size: 18px;
+//   line-height: 1.6;
+// }
+// .body-m {
+//   font-family: $secondary-font-500;
+//   font-size: 16px;
+//   line-height: 1.6;
+// }
+// .body-m-bold {
+//   font-family: $secondary-font-600;
+//   font-size: 16px;
+//   line-height: 1.6;
+// }
+// .body-s {
+//   font-family: $secondary-font-400;
+//   font-size: 14px;
+//   line-height: 1.6;
+// }
+// .body-s-bold {
+//   font-family: $secondary-font-600;
+//   font-size: 14px;
+//   line-height: 1.6;
+// }
+
+// body {
+//   font-size: 14px;
+//   font-family: $secondary-font-400;
+// }
+
+// strong, b {
+//   font-family: $secondary-font-700;
+// }
+
+// ::placeholder {
+//   font-family: Barlow;
+//   font-size: 16px;
+//   color: inherit;
+// }
+
+// @media screen and (max-width: $content-max-width) {
+//   // Font-sizes(Desktop)
+//   // Headings
+//   .d1 {
+//     font-size: 50px;
+//   }
+//   .d2 {
+//     font-size: 42px;
+//   }
+//   .d3 {
+//     font-size: 32px;
+//   }
+//   h1, .h1 {
+//     font-size: 28px;
+//   }
+//   h2, .h2 {
+//     font-size: 24px;
+//   }
+//   h3, .h3 {
+//     font-size: 22px;
+//   }
+// }

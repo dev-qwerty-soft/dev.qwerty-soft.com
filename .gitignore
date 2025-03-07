@@ -1,0 +1,11 @@
+# Вимикаємо конфігураційні файли та дані, які не потрібно пушити
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup/
+*.log
+node_modules/
+vendor/
+.env
+

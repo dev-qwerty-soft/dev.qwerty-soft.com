@@ -1,0 +1,208 @@
+.project__image {
+  position: relative;
+}
+@media screen and (min-width: 1070px) {
+  .project__image {
+    width: 50%;
+  }
+  .project__description {
+    width: 50%;
+  }
+}
+.project__image video {
+  width: 100%;
+}
+.gif-poster,
+.media.gif-hidden {
+  max-height: 330px;
+  border-radius: 24px;
+}
+
+.gif-hidden {
+  display: none;
+}
+
+.project__image {
+  position: relative;
+  cursor: pointer;
+}
+
+.media {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.fade-in-section {
+  opacity: 0;
+  transform: translateY(30px);
+  visibility: hidden;
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+  will-change: opacity, visibility;
+}
+
+.fade-in-section.is-visible {
+  opacity: 1;
+  transform: none;
+  visibility: visible;
+}
+
+.main-technologies__block {
+  transition: height 0.5s cubic-bezier(0.25, 0.1, 0.25, 1.4);
+  overflow: hidden;
+}
+
+.header .header-container .header-top .header-block-fixed .menu-open {
+  min-height: auto;
+}
+
+.form_message {
+  margin-top: -4rem;
+}
+
+.modal_wrapper img {
+  position: relative;
+  z-index: 9;
+}
+
+.page_content_box p {
+  margin-top: 1.5rem;
+}
+
+.main .main-work .main-work__container .main-work__cards.cards .cards__twin .cards__card,
+.main .main-work .main-work__container .main-work__cards.cards .cards__twin .cards__card-back {
+  min-height: 350px;
+}
+
+.wpcf7-not-valid-tip {
+  opacity: 1;
+}
+
+.header-block-fixed.visible {
+  overflow: auto;
+  scrollbar-width: none; /* для Firefox */
+  -ms-overflow-style: none; /* для Internet Explorer и Edge */
+}
+
+.header-block-fixed-inner::-webkit-scrollbar,
+.header-block:has(.menu-open) {
+  display: none; /* для Chrome, Safari и Opera */
+}
+
+.header .header-container .header-top .header-block .menu-open,
+.header .header-container .header-top .header-block-fixed .menu-open {
+  padding-bottom: 100px;
+}
+
+.header-block:has(.menu-open) {
+  overflow: auto;
+  height: 100vh;
+  scrollbar-width: none; /* для Firefox */
+  -ms-overflow-style: none; /* для Internet Explorer и Edge */
+}
+
+.header__menu.menu.menu-open > .header-button {
+  position: relative;
+}
+
+.accordion__item {
+  cursor: pointer;
+}
+
+.modal_wrapper::-webkit-scrollbar {
+  display: none;
+}
+
+.dev__box {
+  transition: 200ms;
+}
+
+.main-contact-us {
+  transition-timing-function: cubic-bezier(0.24, 1.41, 0.54, 1.01);
+}
+
+@media (max-width: 1065px) {
+  .header .header-container .header-top .header-block-fixed .header__menu nav.menu__body ul.menu__list li.menu__item {
+    padding-left: 11px;
+    padding-right: 11px;
+  }
+}
+
+@media (max-width: 1050px) {
+  #sb_header {
+    position: relative;
+    bottom: 20px;
+  }
+  .header .header-container .header-top .header-block .menu-open {
+    min-height: auto !important;
+  }
+
+  .header .header-container .header-top .header-block {
+    padding-bottom: 40px;
+  }
+}
+
+@media screen and (max-width: 1049px) {
+  #sb_header_sticky {
+    position: relative;
+    bottom: 20px;
+  }
+}
+
+@media (max-width: 990px) {
+  .footer .footer__container .footer__bottom.bottom-area .bottom-area__left .bottom-area__address,
+  .footer .footer__container .footer__bottom.bottom-area .bottom-area__block .bottom-area__right {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .main .main-work .main-work__container .main-work__cards.cards .cards__twin .cards__card,
+  .main .main-work .main-work__container .main-work__cards.cards .cards__twin .cards__card-back {
+    min-height: 375px;
+  }
+}
+
+@media screen and (max-width: 840px) {
+  .main .main-work .main-work__container .main-work__cards.cards .cards__twin .cards__card,
+  .main .main-work .main-work__container .main-work__cards.cards .cards__twin .cards__card-back {
+    min-height: auto;
+  }
+  .main-technologies .main-technologies__container .main-technologies__block {
+    padding: 80px 5% 40px;
+  }
+}
+
+@media screen and (max-width: 769px) and ((orientation: landscape)) {
+  .software-magic img {
+    height: 12rem;
+  }
+  .header .header-container .header-top {
+    padding: 0 !important;
+  }
+}
+
+@media screen and (min-width: 500px) and (max-width: 644px) {
+  .main-testimonials__content {
+    height: 600px !important;
+  }
+}
+
+@media screen and (max-width: 565px) {
+  .main .main-work .main-work__container .main-work__cards.cards .cards__twin .cards__card .cards__title-first::after {
+    width: 228px;
+    height: 228px;
+    background-size: cover;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .main .main-software .main-software__container .software-block .scroll-arrows {
+    bottom: 1rem;
+  }
+}
+#rotating-image {
+  transition: none !important;
+}

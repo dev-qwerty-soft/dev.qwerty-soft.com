@@ -1,0 +1,38 @@
+<svg width="468" height="757" viewBox="0 0 468 757" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_1945_1153" fill="white">
+<rect width="329.584" height="329.584" rx="4" transform="matrix(-0.258819 0.965926 0.831612 0.555357 45.7773 86.8892)"/>
+</mask>
+<rect width="329.584" height="329.584" rx="4" transform="matrix(-0.258819 0.965926 0.831612 0.555357 45.7773 86.8892)" stroke="#2B2BD9" stroke-width="10" stroke-linejoin="round" mask="url(#path-1-inside-1_1945_1153)"/>
+<mask id="path-2-inside-2_1945_1153" fill="white">
+<rect width="329.584" height="329.584" rx="4" transform="matrix(0.965926 0.258819 0.555357 -0.831612 -144.652 456.462)"/>
+</mask>
+<rect width="329.584" height="329.584" rx="4" transform="matrix(0.965926 0.258819 0.555357 -0.831612 -144.652 456.462)" stroke="#2B2BD9" stroke-width="10" stroke-linejoin="round" mask="url(#path-2-inside-2_1945_1153)"/>
+<mask id="path-3-inside-3_1945_1153" fill="white">
+<rect width="329.584" height="329.584" rx="4" transform="matrix(0.866025 0.5 0.751671 -0.659538 -194.664 412.846)"/>
+</mask>
+<rect width="329.584" height="329.584" rx="4" transform="matrix(0.866025 0.5 0.751671 -0.659538 -194.664 412.846)" stroke="#2B2BD9" stroke-width="10" stroke-linejoin="round" mask="url(#path-3-inside-3_1945_1153)"/>
+<mask id="path-4-inside-4_1945_1153" fill="white">
+<rect width="329.584" height="329.584" rx="4" transform="matrix(-0.707107 0.707107 0.442518 0.896759 81.3984 146.736)"/>
+</mask>
+<rect width="329.584" height="329.584" rx="4" transform="matrix(-0.707107 0.707107 0.442518 0.896759 81.3984 146.736)" stroke="#2B2BD9" stroke-width="10" stroke-linejoin="round" mask="url(#path-4-inside-4_1945_1153)"/>
+<mask id="path-5-inside-5_1945_1153" fill="white">
+<rect width="329.584" height="329.584" rx="4" transform="matrix(0.258819 0.965926 0.997876 0.0651476 -203.418 265.613)"/>
+</mask>
+<rect width="329.584" height="329.584" rx="4" transform="matrix(0.258819 0.965926 0.997876 0.0651476 -203.418 265.613)" stroke="#2B2BD9" stroke-width="10" stroke-linejoin="round" mask="url(#path-5-inside-5_1945_1153)"/>
+<mask id="path-6-inside-6_1945_1153" fill="white">
+<rect width="329.584" height="329.584" rx="4" transform="matrix(0.965926 -0.258819 0.0651476 -0.997876 -200.367 667.101)"/>
+</mask>
+<rect width="329.584" height="329.584" rx="4" transform="matrix(0.965926 -0.258819 0.0651476 -0.997876 -200.367 667.101)" stroke="#2B2BD9" stroke-width="10" stroke-linejoin="round" mask="url(#path-6-inside-6_1945_1153)"/>
+<mask id="path-7-inside-7_1945_1153" fill="white">
+<rect width="329.584" height="329.584" rx="4" transform="matrix(-0.866025 0.5 0.195342 0.980735 45.9453 240.482)"/>
+</mask>
+<rect width="329.584" height="329.584" rx="4" transform="matrix(-0.866025 0.5 0.195342 0.980735 45.9453 240.482)" stroke="#2B2BD9" stroke-width="10" stroke-linejoin="round" mask="url(#path-7-inside-7_1945_1153)"/>
+<mask id="path-8-inside-8_1945_1153" fill="white">
+<rect width="329.584" height="329.584" rx="4" transform="matrix(0.965926 0.258819 0.555357 -0.831612 -349.398 603.369)"/>
+</mask>
+<rect width="329.584" height="329.584" rx="4" transform="matrix(0.965926 0.258819 0.555357 -0.831612 -349.398 603.369)" stroke="#2B2BD9" stroke-width="10" stroke-linejoin="round" mask="url(#path-8-inside-8_1945_1153)"/>
+<mask id="path-9-inside-9_1945_1153" fill="white">
+<rect width="329.584" height="329.584" rx="4" transform="matrix(0.5 0.866025 0.980735 -0.195341 -376.84 422.942)"/>
+</mask>
+<rect width="329.584" height="329.584" rx="4" transform="matrix(0.5 0.866025 0.980735 -0.195341 -376.84 422.942)" stroke="#2B2BD9" stroke-width="10" stroke-linejoin="round" mask="url(#path-9-inside-9_1945_1153)"/>
+</svg>
